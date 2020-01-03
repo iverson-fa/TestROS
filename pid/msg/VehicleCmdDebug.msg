@@ -1,0 +1,10 @@
+Header header
+
+float64 display_err_angle
+float64 display_err_position
+float64 display_angle_from_angle
+float64 display_angle_from_position
+float64 display_angle
+float64 display_angle_filtered
+
+
